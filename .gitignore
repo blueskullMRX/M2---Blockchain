@@ -1,0 +1,18 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# VS Code specific files
+.vscode/*
+!.vscode/tasks.json
+
+# Build directories
+build/
+Debug/
+Release/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
